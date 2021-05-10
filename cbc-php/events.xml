@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<events>
+    <event time="January 11, 2016 20:00">
+        <title>The Atomic Rhythm All-Stars</title>
+        <location>Neptunes Parlour</location>
+    </event>
+    <event time="2016-01-07 19:00:00">
+        <title>Carolina's Funniest Comic</title>
+        <location>DSI Comedy Theater</location>
+    </event>
+    <event time="2/6/2016 8:00 a.m.">
+        <title>Krispy Kreme Challenge</title>
+        <location>North Carolina State University (NCSU) - Bell Tower</location>
+    </event>
+    <event time="January 9, 2016 8:30 p.m.">
+        <title>The Great Cover Up</title>
+        <location>Kings Barcade</location>
+    </event>
+</events>
